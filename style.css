@@ -8,11 +8,13 @@
 
 body {
     font-family: 'Raleway', sans-serif;
+    background: #f9f7f0;
 }
 
 .nav {
     background: #f9f7f0;
-    height: 80px;
+    height: 8vh;
+    width: 100%;
 }
 
 .nav_logo {
@@ -65,6 +67,13 @@ body {
     gap: 3em;
 }
 
+.banner {
+    background-image: url(src/banner.png);
+    height: 91.6vh;
+    width: 100%;
+
+}
+
 @media (max-width: 700px) {
     .nav_label {
         display: block;
@@ -94,5 +103,10 @@ body {
 
     .nav_item::after {
         background: #f9f7f0;
+    }
+
+    .banner {
+        background-image: url(src/banner2.png);
+        width: 100vw;
     }
 }
