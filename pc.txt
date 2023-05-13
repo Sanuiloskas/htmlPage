@@ -1,0 +1,22 @@
+placa: https://www.amazon.com/dp/B0BDCZRBD6/ref=twister_B0BH19CSDP?_encoding=UTF8&th=1
+precio: 574.944
+
+cpu: https://www.amazon.com/-/es/AMD-Ryzen-5600G-Procesador-desbloqueado/dp/B092L9GF5N/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=ryzen%2B5%2B5600g&sr=8-1&th=1
+precio: 608.533
+
+ram: https://www.amazon.com/-/es/TEAMGROUP-T-Force-PC4-25600-escritorio-TF3D416G3200HC16CDC01/dp/B07RWDKZ2D/ref=sr_1_5?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=ram%2Bddr4%2B16gb%2B3200mhz&sr=8-5&th=1
+precio: 215.574
+
+almacenamiento: https://www.amazon.com/800-velocidad-almacenamiento-port%C3%A1tiles-resistencia/dp/B0BW1ZXTMD/ref=sr_1_1_sspa?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=m.2%2B1tb&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzQTNHUEc5OE9RREJXJmVuY3J5cHRlZElkPUEwMTI2ODUwM0cxNVVCNUQxRjBRNSZlbmNyeXB0ZWRBZElkPUEwNDExNTY1WlhaNENDVk1FSDNTJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1
+precio: 239.532
+
+case: https://articulo.mercadolibre.com.co/MCO-637307573-chasis-gamer-gear-atx-vidrio-templado-puertos-usb-30-y-2-_JM#position=4&search_layout=stack&type=item&tracking_id=df57a439-1289-4a7f-9c9c-19c9a58b0e54
+precio: 198.000
+
+psu: https://www.amazon.com/ESGAMING-alimentaci%C3%B3n-certificaci%C3%B3n-totalmente-ventilador/dp/B08X6VBLSL/ref=sr_1_22_sspa?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=psu%2B600w&sr=8-22-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEySDJPWDBJVEE5SkgwJmVuY3J5cHRlZElkPUEwMDUxMzg4MjlWMTQ1TUJFVVhJSyZlbmNyeXB0ZWRBZElkPUEwMDI3NTEwQlFLOEkxWTZKU0Y0JndpZGdldE5hbWU9c3BfYnRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1
+precio: 377.434
+
+monitor: https://www.amazon.com/-/es/pulgadas-computadora-desenfoque-movimiento-DisplayPort/dp/B09P7ZK4CJ/ref=sr_1_3?keywords=monitor%2B27%2Binch%2B144hz&sr=8-3&th=1
+precio: 754,916 + 141,083 = 895.999
+
+total: 3110000
