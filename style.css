@@ -71,7 +71,6 @@ body {
     background-image: url(src/banner.png);
     height: 91.6vh;
     width: 100%;
-
 }
 
 @media (max-width: 700px) {
@@ -108,5 +107,6 @@ body {
     .banner {
         background-image: url(src/banner2.png);
         width: 100vw;
+        background-size: contain;
     }
 }
